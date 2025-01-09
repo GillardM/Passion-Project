@@ -1,0 +1,5 @@
+12/21/2024
+began project
+added the grid and player movement
+created impassable walls
+added the discovery mechanic for dungeons

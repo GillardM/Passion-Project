@@ -1,0 +1,11 @@
+for the hero class:
+
+important stats to record (for the hero class itself):
+level
+HP
+
+
+
+strength (affects damage)
+accuracy (although this may be better to attach to each individual attack for a hero somehow)
+intelligence (affects healing)

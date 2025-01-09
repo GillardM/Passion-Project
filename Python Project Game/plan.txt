@@ -1,0 +1,9 @@
+12/21/2024
+I want the combat system of this game to be similar to the one of darkest dungeon
+I want the movement around the world to be more similar to pokemon types of games
+I want to make it so you select a party of heroes then dungeons are either randomly generated or automatically pre-programmed
+I want it to be that you can recruit heroes randomly sort of like from darkest dungeon
+I want heroes to be able to have gear or trinkets that can adjust their stats
+I want each class of hero to a default one which is baseline skills that level at recruitment will have pre-set values
+
+
